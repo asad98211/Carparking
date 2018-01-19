@@ -1,0 +1,1 @@
+# Carparking is a simple arduino project that automatically calculates the number of vehicle entering or exiting in a garage. Here TCRT 5000 the IR sensor is used to detect presence of vehicle. A servo to control the gate. A 16*2 LCD display with i2c bus to print output.
